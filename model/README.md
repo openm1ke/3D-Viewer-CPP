@@ -2,7 +2,7 @@
 
 > Проект 3DViewer с использованием Qt
 
-![viewer](../model/viewer.png)
+![viewer](model/viewer.png)
 
 Для компиляции необходимо установить qmake
 
